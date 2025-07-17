@@ -12,15 +12,15 @@ Berdasarkan analisis ulasan dari konsumen, disimpulkan bahwa Nuevo perlu mengopt
 ### Saran dan Rekomendasi Produk Baru Nuevo
 **"Nuevo Flex Pro" – All-Day Lightweight Performance Sneaker**
 Fitur Utama Produk
-- Kenyamanan & Ergonomi
+- Kenyamanan & Ergonomi:
 Sol empuk, ringan, dan breathable. Menggunakan foam insole dengan cushion maksimal. Fokus pada kenyamanan untuk penggunaan harian dan aktivitas ringan.
-- Desain Stylish
+- Desain Stylish:
 Tampilan clean, kekinian, dengan variasi warna bold dan pastel yang cocok untuk Gen Z & milenial. Desain versatile: bisa masuk pasar lifestyle dan sport casual.
-- Ukuran & Warna Konsisten
+- Ukuran & Warna Konsisten:
 Sistem panduan ukuran interaktif & foto produk real shot dari berbagai sudut untuk meningkatkan akurasi ekspektasi.
-- Daya Tahan & Kualitas Lokal
+- Daya Tahan & Kualitas Lokal:
 Material lokal berkualitas tinggi yang tidak mudah rusak, dilengkapi kampanye naratif: “Lokal Berkualitas, Siap Tanding.”
-- Pengemasan & Pengiriman
+- Pengemasan & Pengiriman:
 Fokus pada speed dan keakuratan pengiriman. Bungkus eksklusif dan aman, dengan kartu terima kasih personal.
 
 ## Contributor
