@@ -29,4 +29,4 @@ Fokus pada speed dan keakuratan pengiriman. Bungkus eksklusif dan aman, dengan k
 | Dani Hidayat                  | 11220940000014 | Scrap Data, Preprocessing, Insight Mining              |
 | M. Abdul Ghofur               | 11220940000020 | Preprocessing, Insight Mining, Pembuatan PPT           |
 | M. Anthar Jailani Putra       | 11220940000029 | Preprocessing, Insight Mining, Presentasi Hasil        |
-| M. Akhdan A'qila              | 11220940000041 | Preprocessing, Insight Mining, Presentasi Hasil        |
+| M. Akhdan A'qil               | 11220940000041 | Preprocessing, Insight Mining, Presentasi Hasil        |
