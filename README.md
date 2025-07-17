@@ -3,10 +3,10 @@
 ## 📘 Studi Kasus
 Proyek ini merupakan studi kasus di mana kami berperan sebagai data scientist untuk brand sepatu lokal Nuevo. Dalam rangka merancang produk sepatu baru, Nuevo ingin memahami tren dan preferensi pasar berdasarkan percakapan dan ulasan tentang sepatu di media sosial.
 
-## Data
-Data yang digunakan adalah data review dari tokopedia dari 4 brand sepatu lokal, yaitu Ortuseight, 910, Mills, dan Nuevo. Data diambil menggunakan library selenium dan beaifulsoup, data juga diambil secara aman dan legal serta memenuhi pedoman/aturan dari https://www.tokopedia.com/robots.txt .
-
 Untuk itu, kami mengumpulkan dan menganalisis data dari hasil review di Tokopedia mengenai empat brand lokal terkemuka: 910, Ortuseight, Mills, dan Nuevo sendiri. Proyek ini bertujuan menggali insight mengenai aspek sepatu yang paling disukai atau dikritik, serta mencari celah yang bisa dimanfaatkan Nuevo untuk mengembangkan produk yang relevan dan kompetitif.
+
+## Data
+Data yang digunakan adalah data review dari tokopedia. Data diambil menggunakan library selenium dan beaifulsoup, data juga diambil secara aman dan legal serta memenuhi pedoman/aturan dari https://www.tokopedia.com/robots.txt.
 
 ## Hasil dan Temuan
 ### Kesimpulan
